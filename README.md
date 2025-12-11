@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saroj Kumar Das</h1>
-<h3 align="center">Full-Stack Developer (MERN)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=23&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN);Real-Time+Apps+%7C+Backend+Architecture;Clean+Code+Enthusiast+%7C+Problem+Solver" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70">
+</p>
+
+---
 
 <p align="center">
 I'm a passionate Full-Stack MERN Developer focused on building real-time applications, scalable backend systems, and clean UI experiences.  
@@ -19,7 +28,7 @@ Currently building <b>CollabBoard</b> & <b>UltaAuction</b>.
 🤝 **I’m looking to collaborate on**  
 • MERN stack projects  
 • Real-time applications using Socket.IO  
-• Backend architecture & system design projects  
+• Backend architecture & system design  
 
 <br/>
 
@@ -41,15 +50,59 @@ Currently building <b>CollabBoard</b> & <b>UltaAuction</b>.
 💬 **Ask me about**  
 • MERN stack development  
 • Layered backend architecture (Controller → Service → Repository)  
-• Cloudinary image handling  
+• Cloudinary image uploads  
 • OTP-based authentication flows  
-• Full-stack project structure & UI planning  
+• Full-stack project structuring & UI planning  
 
 <br/>
 
 ⚡ **Fun fact**  
 I often break things just to rebuild them better 😄  
 I love turning complex logic into clean, scalable architecture.
+
+---
+
+<br/>
+
+# 🚀 Featured Projects
+
+### 🍔 **FoodComaApp – Food Ordering App**
+🔗 **Live:** https://foodcomaapp.netlify.app/  
+📦 **GitHub:** https://github.com/Saroj05Dev/FoodComaFrontend  
+
+A clean, modern, responsive food ordering UI built using React + Tailwind.
+
+---
+
+### 📌 **TodoCollabBoard – Real-Time Task Manager**
+🔗 **Live:** https://todo-collab-frontend-nm629s5kn-saroj-kumar-das-projects.vercel.app/  
+📦 **GitHub:** https://github.com/Saroj05Dev/TodoCollabFrontend  
+
+A real-time collaborative board with Socket.IO, intuitive UI, and drag-and-drop.
+
+---
+
+### 💸 **UltaAuction – Lowest Unique Bidding App**
+🔗 **Live:** https://ulta-auction-frontend-saroj-kumar-das-projects.vercel.app/  
+📦 **GitHub:** https://github.com/Saroj05Dev/UltaAuctionFrontend  
+
+A feature-rich auction platform implementing unique bid logic, OTP auth, and Cloudinary uploads.
+
+---
+
+<br/>
+
+# 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Saroj05Dev/FoodComaFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saroj05Dev&repo=FoodComaFrontend&theme=dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Saroj05Dev/UltaAuctionFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saroj05Dev&repo=UltaAuctionFrontend&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -73,7 +126,7 @@ I love turning complex logic into clean, scalable architecture.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/bbadge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
