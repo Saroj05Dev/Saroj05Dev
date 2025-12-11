@@ -90,8 +90,6 @@ A feature-rich auction platform implementing unique bid logic, OTP auth, and Clo
 
 ---
 
-<br/>
-
 ---
 
 <br/>
