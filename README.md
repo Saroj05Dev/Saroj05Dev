@@ -96,13 +96,14 @@ A feature-rich auction platform implementing unique bid logic, OTP auth, and Clo
 
 <p align="center">
   <a href="https://github.com/Saroj05Dev/FoodComaFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saroj05Dev&repo=FoodComaFrontend&theme=dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Saroj05Dev&repo=FoodComaFrontend&theme=dark" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Saroj05Dev/UltaAuctionFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saroj05Dev&repo=UltaAuctionFrontend&theme=dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Saroj05Dev&repo=UltaAuctionFrontend&theme=dark" />
   </a>
 </p>
+
 
 ---
 
