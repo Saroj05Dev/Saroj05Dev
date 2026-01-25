@@ -1,137 +1,115 @@
 <h1 align="center">Hi 👋, I'm Saroj Kumar Das</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=23&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN);Real-Time+Apps+%7C+Backend+Architecture;Clean+Code+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=650&lines=Entry-Level+MERN+Stack+Developer;Building+Real-Time+%26+Full-Stack+Apps;Clean+Architecture+%7C+Problem+Solver" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
 </p>
 
 ---
 
 <p align="center">
-I'm a passionate Full-Stack MERN Developer focused on building real-time applications, scalable backend systems, and clean UI experiences.  
-Currently building <b>CollabBoard</b> & <b>UltaAuction</b>.
+I’m an <b>Entry-Level MERN Stack Developer</b> passionate about building real-world, scalable web applications.  
+I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>, and <b>user-focused UIs</b>.
 </p>
 
-<br/>
+---
 
-# 💫 About Me:
+## 💫 About Me
 
-🛠 **I’m currently working on**  
-• **CollabBoard** — a real-time collaborative Kanban board using MERN, Socket.IO, and drag-and-drop.  
-• **UltaAuction** — a full-stack Lowest Unique Bid auction system with OTP auth and Cloudinary uploads.  
+🛠 **Currently working on**  
+• **CollabBoard** — a real-time collaborative Kanban board built with MERN, Socket.IO, and drag-and-drop.  
 
-<br/>
-
-🤝 **I’m looking to collaborate on**  
+🤝 **Open to collaborating on**  
 • MERN stack projects  
-• Real-time applications using Socket.IO  
-• Backend architecture & system design  
+• Real-time apps using Socket.IO  
+• Backend architecture & API design  
 
-<br/>
+🧠 **Actively improving**  
+• System design fundamentals  
+• Real-time synchronization strategies  
+• Unit testing with Jest  
 
-🧠 **I’m looking for help with**  
-• Advanced System Design concepts  
-• Optimizing real-time synchronization  
-• Writing better unit tests with Jest  
-
-<br/>
-
-🌱 **I’m currently learning**  
-• Socket.IO (real-time events)  
+🌱 **Currently learning**  
+• Advanced Socket.IO patterns  
 • DSA (Data Structures & Algorithms)  
-• Jest (unit testing)  
-• Java (for BCA semester)  
-
-<br/>
+• Jest for backend testing  
+• Java (BCA curriculum)  
 
 💬 **Ask me about**  
 • MERN stack development  
 • Layered backend architecture (Controller → Service → Repository)  
-• Cloudinary image uploads  
-• OTP-based authentication flows  
-• Full-stack project structuring & UI planning  
-
-<br/>
+• REST APIs, JWT auth & Cloudinary uploads  
+• Structuring scalable full-stack projects  
 
 ⚡ **Fun fact**  
-I often break things just to rebuild them better 😄  
-I love turning complex logic into clean, scalable architecture.
+I enjoy breaking complex systems down and rebuilding them cleaner and better 😄  
 
 ---
 
-<br/>
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-### 🍔 **FoodComaApp – Food Ordering App**
-🔗 **Live:** https://foodcomaapp.netlify.app/  
-📦 **GitHub:** https://github.com/Saroj05Dev/FoodComaFrontend  
-
-A clean, modern, responsive food ordering UI built using React + Tailwind.
-
----
-
-### 📌 **TodoCollabBoard – Real-Time Task Manager**
+### 📌 **TodoCollabBoard – Real-Time Collaborative Task Manager**
 🔗 **Live:** https://todo-collab-frontend-nm629s5kn-saroj-kumar-das-projects.vercel.app/  
 📦 **GitHub:** https://github.com/Saroj05Dev/TodoCollabFrontend  
 
-A real-time collaborative board with Socket.IO, intuitive UI, and drag-and-drop.
+• Real-time collaboration using Socket.IO  
+• Drag-and-drop Kanban board  
+• Activity logs and live task updates  
+• Clean component and backend structure  
+
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO  
 
 ---
 
-### 💸 **UltaAuction – Lowest Unique Bidding App**
-🔗 **Live:** https://ulta-auction-frontend-saroj-kumar-das-projects.vercel.app/  
-📦 **GitHub:** https://github.com/Saroj05Dev/UltaAuctionFrontend  
+### 🍔 **FoodComaApp – Online Food Ordering App**
+🔗 **Live:** https://foodcomaapp.netlify.app/  
+📦 **GitHub:** https://github.com/Saroj05Dev/FoodComaFrontend  
 
-A feature-rich auction platform implementing unique bid logic, OTP auth, and Cloudinary uploads.
+• Responsive food ordering UI  
+• Authentication, cart & order flow  
+• Clean UI with Tailwind CSS  
+
+**Tech:** React, Tailwind CSS, REST APIs  
 
 ---
 
----
+## 🌐 Connect with Me
 
-<br/>
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saroj05Dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/)  
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/Saroj05Dev)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarojkumardas.dev@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+**Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+**Tools**
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Saroj05Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Saroj05Dev&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Saroj05Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Saroj05Dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
