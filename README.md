@@ -20,11 +20,11 @@ I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>,
 ## 💫 About Me
 
 🛠 **Currently working on**  
-• **CollabBoard** — a real-time collaborative Kanban board built with MERN, Socket.IO, and drag-and-drop.  
+• **TaskForge** — a real-time collaborative Kanban-style task management app built with MERN, Socket.IO, and drag-and-drop.  
 
 🤝 **Open to collaborating on**  
 • MERN stack projects  
-• Real-time apps using Socket.IO  
+• Real-time applications using Socket.IO  
 • Backend architecture & API design  
 
 🧠 **Actively improving**  
@@ -41,7 +41,7 @@ I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>,
 💬 **Ask me about**  
 • MERN stack development  
 • Layered backend architecture (Controller → Service → Repository)  
-• REST APIs, JWT auth & Cloudinary uploads  
+• REST APIs, JWT authentication & Cloudinary uploads  
 • Structuring scalable full-stack projects  
 
 ⚡ **Fun fact**  
@@ -51,14 +51,14 @@ I enjoy breaking complex systems down and rebuilding them cleaner and better �
 
 ## 🚀 Featured Projects
 
-### 📌 **TodoCollabBoard – Real-Time Collaborative Task Manager**
+### 📌 **TaskForge – Real-Time Collaborative Task Manager**
 🔗 **Live:** https://todo-collab-frontend-nm629s5kn-saroj-kumar-das-projects.vercel.app/  
 📦 **GitHub:** https://github.com/Saroj05Dev/TodoCollabFrontend  
 
 • Real-time collaboration using Socket.IO  
 • Drag-and-drop Kanban board  
 • Activity logs and live task updates  
-• Clean component and backend structure  
+• Clean component structure and layered backend architecture  
 
 **Tech:** React, Node.js, Express, MongoDB, Socket.IO  
 
@@ -86,17 +86,17 @@ I enjoy breaking complex systems down and rebuilding them cleaner and better �
 
 ## 💻 Tech Stack
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
+**Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools**
+**Tools**  
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
