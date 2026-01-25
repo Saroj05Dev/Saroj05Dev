@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-I’m an <b>Entry-Level MERN Stack Developer</b> passionate about building real-world, scalable web applications.  
-I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>, and <b>user-focused UIs</b>.
+I’m an <b>Entry-Level MERN Stack Developer</b> focused on building production-ready web applications.  
+I enjoy working on <b>backend-heavy systems</b>, <b>clean architecture</b>, and <b>real-world product features</b>.
 </p>
 
 ---
@@ -20,20 +20,20 @@ I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>,
 ## 💫 About Me
 
 🛠 **Currently working on**  
-• **TaskForge** — a real-time collaborative Kanban-style task management app built with MERN, Socket.IO, and drag-and-drop.  
+• **HireLens** — a hiring & applicant tracking platform where recruiters can create jobs, manage candidates, and track hiring pipelines (MERN-based SaaS project).  
 
 🤝 **Open to collaborating on**  
 • MERN stack projects  
-• Real-time applications using Socket.IO  
+• SaaS / product-based applications  
 • Backend architecture & API design  
 
 🧠 **Actively improving**  
 • System design fundamentals  
-• Real-time synchronization strategies  
-• Unit testing with Jest  
+• Backend scalability & clean architecture  
+• Writing testable services with Jest  
 
 🌱 **Currently learning**  
-• Advanced Socket.IO patterns  
+• Advanced Node.js patterns  
 • DSA (Data Structures & Algorithms)  
 • Jest for backend testing  
 • Java (BCA curriculum)  
@@ -41,15 +41,27 @@ I enjoy working on <b>real-time features</b>, <b>clean backend architecture</b>,
 💬 **Ask me about**  
 • MERN stack development  
 • Layered backend architecture (Controller → Service → Repository)  
-• REST APIs, JWT authentication & Cloudinary uploads  
-• Structuring scalable full-stack projects  
+• REST APIs, JWT authentication & role-based access  
+• Designing backend-first applications  
 
 ⚡ **Fun fact**  
-I enjoy breaking complex systems down and rebuilding them cleaner and better 😄  
+I like building systems the “right way” — even if it takes longer 😄  
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📌 **HireLens – Hiring & Applicant Tracking Platform**
+🔗 **Status:** In Progress  
+
+• Recruiters can create job postings and manage candidates  
+• Candidate pipeline with hiring stages  
+• Backend-first design with clean service layers  
+• Built as a scalable MERN SaaS product  
+
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB  
+
+---
 
 ### 📌 **TaskForge – Real-Time Collaborative Task Manager**
 🔗 **Live:** https://todo-collab-frontend-nm629s5kn-saroj-kumar-das-projects.vercel.app/  
