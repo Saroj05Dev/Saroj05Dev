@@ -64,8 +64,8 @@ I like building systems the “right way” — even if it takes longer 😄
 ---
 
 ### 📌 **TaskForge – Real-Time Collaborative Task Manager**
-🔗 **Live:** https://todo-collab-frontend-nm629s5kn-saroj-kumar-das-projects.vercel.app/  
-📦 **GitHub:** https://github.com/Saroj05Dev/TodoCollabFrontend  
+🔗 **Live:** https://forgetask.netlify.app  
+📦 **GitHub:** https://github.com/Saroj05Dev/TaskForge  
 
 • Real-time collaboration using Socket.IO  
 • Drag-and-drop Kanban board  
