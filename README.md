@@ -121,12 +121,19 @@ I like building systems the “right way” — even if it takes longer 😄
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Saroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroj05Dev\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saroj05Dev&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saroj05Dev\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saroj05Dev&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
