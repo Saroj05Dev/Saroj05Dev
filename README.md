@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-I’m an <b>Entry-Level MERN Stack Developer</b> focused on building production-ready web applications.  
+I’m an <b>Entry-Level MERN Stack Developer</b> focused on building <b>production-ready web applications</b>.  
 I enjoy working on <b>backend-heavy systems</b>, <b>clean architecture</b>, and <b>real-world product features</b>.
 </p>
 
@@ -19,109 +19,115 @@ I enjoy working on <b>backend-heavy systems</b>, <b>clean architecture</b>, and 
 
 ## 💫 About Me
 
-🛠 **Currently working on**  
-• **HireLens** — a hiring & applicant tracking platform where recruiters can create jobs, manage candidates, and track hiring pipelines (MERN-based SaaS project).  
+🛠 **Currently working on**
+• Exploring scalable backend systems & improving system design
 
-🤝 **Open to collaborating on**  
-• MERN stack projects  
-• SaaS / product-based applications  
-• Backend architecture & API design  
+🤝 **Open to collaborating on**
+• MERN stack projects
+• SaaS / product-based applications
+• Backend architecture & API design
 
-🧠 **Actively improving**  
-• System design fundamentals  
-• Backend scalability & clean architecture  
-• Writing testable services with Jest  
+🧠 **Actively improving**
+• System design fundamentals
+• Backend scalability & clean architecture
+• Writing testable services with Jest
 
-🌱 **Currently learning**  
-• Advanced Node.js patterns  
-• DSA (Data Structures & Algorithms)  
-• Jest for backend testing  
-• Java (BCA curriculum)  
+🌱 **Currently learning**
+• Advanced Node.js patterns
+• DSA (Data Structures & Algorithms)
+• Jest for backend testing
+• Java (BCA curriculum)
 
-💬 **Ask me about**  
-• MERN stack development  
-• Layered backend architecture (Controller → Service → Repository)  
-• REST APIs, JWT authentication & role-based access  
-• Designing backend-first applications  
+💬 **Ask me about**
+• MERN stack development
+• Layered backend architecture (Controller → Service → Repository)
+• REST APIs, JWT authentication & role-based access
+• Designing backend-first applications
 
-⚡ **Fun fact**  
-I like building systems the “right way” — even if it takes longer 😄  
+⚡ **Fun fact**
+I like building systems the “right way” — even if it takes longer 😄
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 **HireLens – Hiring & Applicant Tracking Platform**
-🔗 **Status:** In Progress  
+### 📌 **HireLens – Role-Based Applicant Tracking System**
 
-• Recruiters can create job postings and manage candidates  
-• Candidate pipeline with hiring stages  
-• Backend-first design with clean service layers  
-• Built as a scalable MERN SaaS product  
+🔗 **Live:** [https://hire-lens-frontend-ebon.vercel.app/](https://hire-lens-frontend-ebon.vercel.app/)
+📦 **GitHub:** [https://github.com/Saroj05Dev/HireLensFrontend](https://github.com/Saroj05Dev/HireLensFrontend)
 
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB  
+• Production-ready ATS with Admin, Recruiter & Interviewer workflows
+• Real-time candidate pipeline, interview tracking & activity updates
+• Secure JWT authentication with httpOnly cookies & silent refresh
+• Built using scalable MERN architecture with Socket.IO
+
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Socket.IO
 
 ---
 
 ### 📌 **TaskForge – Real-Time Collaborative Task Manager**
-🔗 **Live:** https://forgetask.netlify.app  
-📦 **GitHub:** https://github.com/Saroj05Dev/TaskForge  
 
-• Real-time collaboration using Socket.IO  
-• Drag-and-drop Kanban board  
-• Activity logs and live task updates  
-• Clean component structure and layered backend architecture  
+🔗 **Live:** [https://forgetask.netlify.app](https://forgetask.netlify.app)
+📦 **GitHub:** [https://github.com/Saroj05Dev/TaskForge](https://github.com/Saroj05Dev/TaskForge)
 
-**Tech:** React, Node.js, Express, MongoDB, Socket.IO  
+• Real-time collaboration using Socket.IO
+• Drag-and-drop Kanban board
+• Activity logs and live task updates
+• Clean component structure and layered backend architecture
+
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO
 
 ---
 
 ### 🍔 **FoodComaApp – Online Food Ordering App**
-🔗 **Live:** https://foodcomaapp.netlify.app/  
-📦 **GitHub:** https://github.com/Saroj05Dev/FoodComaFrontend  
 
-• Responsive food ordering UI  
-• Authentication, cart & order flow  
-• Clean UI with Tailwind CSS  
+🔗 **Live:** [https://foodcomaapp.netlify.app/](https://foodcomaapp.netlify.app/)
+📦 **GitHub:** [https://github.com/Saroj05Dev/FoodComaFrontend](https://github.com/Saroj05Dev/FoodComaFrontend)
 
-**Tech:** React, Tailwind CSS, REST APIs  
+• Responsive food ordering UI
+• Authentication, cart & order flow
+• Clean UI with Tailwind CSS
+
+**Tech:** React, Tailwind CSS, REST APIs
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/)  
-[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/Saroj05Dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarojkumardas.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/)
+[![X](https://img.shields.io/badge/X-black?logo=X\&logoColor=white)](https://x.com/Saroj05Dev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sarojkumardas.dev@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-**Tools**  
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+**Tools**
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Saroj05Dev&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saroj05Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&theme=dark&hide_border=false&layout=compact)
+![Saroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroj05Dev\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saroj05Dev\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev\&layout=compact\&theme=tokyonight)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Saroj05Dev&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Saroj05Dev\&color=blue)
