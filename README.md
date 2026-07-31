@@ -1,140 +1,192 @@
 <h1 align="center">Hi 👋, I'm Saroj Kumar Das</h1>
 
+<h3 align="center">
+Backend-Focused MERN Stack Developer | Building Production-Ready Web Applications
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=650&lines=Entry-Level+MERN+Stack+Developer;Building+Real-Time+%26+Full-Stack+Apps;Clean+Architecture+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+MERN+Developer;Building+Production-Ready+Web+Applications;Real-Time+Apps+with+Socket.IO;Clean+Architecture+%7C+REST+APIs+%7C+System+Design;Always+Learning+Better+Engineering+Practices" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
-</p>
-
----
-
-<p align="center">
-I’m an <b>Entry-Level MERN Stack Developer</b> focused on building <b>production-ready web applications</b>.  
-I enjoy working on <b>backend-heavy systems</b>, <b>clean architecture</b>, and <b>real-world product features</b>.
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" />
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🛠 **Currently working on**
-• Exploring scalable backend systems & improving system design
+I'm a **Backend-Focused MERN Stack Developer** from India who enjoys building scalable, production-ready web applications.
 
-🤝 **Open to collaborating on**
-• MERN stack projects
-• SaaS / product-based applications
-• Backend architecture & API design
+I love designing clean backend architectures, developing secure REST APIs, and creating real-time applications using Socket.IO. I'm continuously improving my skills in backend engineering, system design, and software architecture while building projects that solve real-world problems.
 
-🧠 **Actively improving**
-• System design fundamentals
-• Backend scalability & clean architecture
-• Writing testable services with Jest
-
-🌱 **Currently learning**
-• Advanced Node.js patterns
-• DSA (Data Structures & Algorithms)
-• Jest for backend testing
-• Java (BCA curriculum)
-
-💬 **Ask me about**
-• MERN stack development
-• Layered backend architecture (Controller → Service → Repository)
-• REST APIs, JWT authentication & role-based access
-• Designing backend-first applications
-
-⚡ **Fun fact**
-I like building systems the “right way” — even if it takes longer 😄
+- 🚀 Building scalable full-stack web applications
+- 💻 Passionate about backend engineering & clean architecture
+- 🌱 Currently learning **Advanced Node.js, System Design, Docker, Jest & DSA**
+- 🤝 Open to **Internships** and **Junior Software Engineer** opportunities
+- 💬 Ask me about **MERN, REST APIs, JWT Authentication, MongoDB, Socket.IO & Backend Architecture**
+- ⚡ Fun fact: I enjoy building systems the "right way" even if it takes longer.
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Current Focus
 
-### 📌 **HireLens – Role-Based Applicant Tracking System**
-
-🔗 **Live:** [https://hire-lens-frontend-ebon.vercel.app/](https://hire-lens-frontend-ebon.vercel.app/)
-📦 **GitHub:** [https://github.com/Saroj05Dev/HireLensFrontend](https://github.com/Saroj05Dev/HireLensFrontend)
-
-• Production-ready ATS with Admin, Recruiter & Interviewer workflows
-• Real-time candidate pipeline, interview tracking & activity updates
-• Secure JWT authentication with httpOnly cookies & silent refresh
-• Built using scalable MERN architecture with Socket.IO
-
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Socket.IO
+- 📚 Advanced Node.js Patterns
+- 🏗️ System Design Fundamentals
+- 🐳 Docker & Containerization
+- ✅ Backend Testing with Jest
+- ⚡ Data Structures & Algorithms
+- 🌍 Open Source Contributions
 
 ---
 
-### 📌 **TaskForge – Real-Time Collaborative Task Manager**
+# 🚀 Featured Projects
 
-🔗 **Live:** [https://forgetask.netlify.app](https://forgetask.netlify.app)
-📦 **GitHub:** [https://github.com/Saroj05Dev/TaskForge](https://github.com/Saroj05Dev/TaskForge)
+## 🧑‍💼 HireLens — Role-Based Applicant Tracking System
 
-• Real-time collaboration using Socket.IO
-• Drag-and-drop Kanban board
-• Activity logs and live task updates
-• Clean component structure and layered backend architecture
+🔗 **Live Demo:** https://hire-lens-frontend-ebon.vercel.app/
 
-**Tech:** React, Node.js, Express, MongoDB, Socket.IO
+📦 **GitHub:** https://github.com/Saroj05Dev/HireLensFrontend
 
----
+### Highlights
 
-### 🍔 **FoodComaApp – Online Food Ordering App**
+- 🛡️ Secure JWT Authentication with httpOnly Cookies
+- 👥 Role-based access (Admin, Recruiter & Interviewer)
+- ⚡ Real-time candidate pipeline using Socket.IO
+- 📅 Interview scheduling & activity tracking
+- 🏗️ Scalable layered backend architecture
+- 📊 Analytics-ready backend design
 
-🔗 **Live:** [https://foodcomaapp.netlify.app/](https://foodcomaapp.netlify.app/)
-📦 **GitHub:** [https://github.com/Saroj05Dev/FoodComaFrontend](https://github.com/Saroj05Dev/FoodComaFrontend)
+**Tech Stack**
 
-• Responsive food ordering UI
-• Authentication, cart & order flow
-• Clean UI with Tailwind CSS
-
-**Tech:** React, Tailwind CSS, REST APIs
+`React` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO`
 
 ---
 
-## 🌐 Connect with Me
+## 📋 TaskForge — Real-Time Collaborative Task Manager
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/)
-[![X](https://img.shields.io/badge/X-black?logo=X\&logoColor=white)](https://x.com/Saroj05Dev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sarojkumardas.dev@gmail.com)
+🔗 **Live Demo:** https://forgetask.netlify.app
 
----
+📦 **GitHub:** https://github.com/Saroj05Dev/TaskForge
 
-## 💻 Tech Stack
+### Highlights
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+- ⚡ Real-time collaboration with Socket.IO
+- 📌 Drag-and-drop Kanban Board
+- 👥 Team collaboration & activity logs
+- 🔐 JWT Authentication
+- 🏗️ Layered backend architecture
+- 📱 Fully responsive UI
 
-**Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+**Tech Stack**
 
-**Tools**
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+`React` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO`
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+# ⭐ Engineering Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saroj05Dev&show_icons=true&theme=tokyonight" />
+- 🏗️ Layered Backend Architecture
+- 🔐 JWT Authentication & Authorization
+- ⚡ Real-Time Applications with Socket.IO
+- 📦 REST API Design
+- ☁️ Cloudinary Integration
+- 📈 MongoDB Aggregation Pipelines
+- 🔄 Redux Toolkit State Management
+- 📱 Responsive UI Development
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css,js" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saroj05Dev&theme=tokyonight" />
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&layout=compact&theme=tokyonight" />
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,render,vscode" />
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saroj05Dev\&color=blue)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saroj05Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saroj05Dev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saroj05Dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Saroj05Dev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saroj05Dev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Saroj05Dev" target="_blank">
+<img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:sarojkumardas.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+📧 **Email:** **sarojkumardas.dev@gmail.com**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/saroj-kumar-das-86a36b30a/
+
+🐦 **X:** https://x.com/Saroj05Dev
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Saroj05Dev&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
